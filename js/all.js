@@ -32,7 +32,7 @@ const App = {
     methods: {
         addClass(index){
             this.current = index;
-            console.log(index)
+            
         }
     },
 
